@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://example.com/app.ipa</string>
+					<string>https://example.com/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://example.com/test.png</string>
+					<string>https://example.com/test.png</string>
 				</dict>
 				<dict>
 					<key>url</key>
 					<string>full-size-image</string>
 					<key>kind</key>
-					<string>http://example.com/test.png</string>
+					<string>https://example.com/test.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -33,7 +33,7 @@
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>bundle-identifier</key>
-				<string>bundle.id</string>
+				<string>your-app-bundle-id</string>
 				<key>title</key>
 				<string>App Name</string>
 			</dict>
